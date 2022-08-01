@@ -12,4 +12,4 @@ npm install
 node test.js
 ```
 
-#### Don't forget to add your app_id in ``index.js``
+#### Don't forget to add your app_id in ``index.html``
